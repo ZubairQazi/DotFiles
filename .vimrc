@@ -22,7 +22,7 @@ Plug 'tpope/vim-fugitive'
 call plug#end()
 
 " Replace <YOURS> with your GitHub username and password/Personal-Access-Token
-let g:github_dashboard = { 'username': 'ZubairQazi', 'password': ' 485ae80af4e34ee00eb94e2116ac7eb4364a0b4e' }
+let g:github_dashboard = { 'username': '', 'password': '' }
 let g:github_dashboard['position'] = 'top'
 let g:github_dashboard['open_command'] = 'open'
 
